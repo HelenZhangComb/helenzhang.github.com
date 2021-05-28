@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Education
 
 - 2014--2019 Ph.D in [Center for Applied Mathematics](http://cam.tju.edu.cn/), [Tianjin University](http://www.tju.edu.cn/), China.
-       Advisor: [William Y.C. Chen](http://www.billchen.org/).
+      <p>  Advisor: [William Y.C. Chen](http://www.billchen.org/).
 - 2010--2014 B.Sc. in the [Academy of Mathematics and Statistics](http://www5.zzu.edu.cn/math/), [Zhengzhou University](http://www.zzu.edu.cn/), China.
 
 # Header 1
