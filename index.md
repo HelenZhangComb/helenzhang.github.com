@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Helen WenJing Zhang Pages
 
 You can use the [editor on GitHub](https://github.com/HelenZhangComb/helenzhang.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,10 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+2014--2019 Ph.D in Center for Applied Mathematics, Tianjin University, China.
+           Advisor: William Y.C. Chen.
+2010--2014 B.Sc. in the Academy of Mathematics and Statistics, Zhengzhou University, China.
 
 # Header 1
 ## Header 2
