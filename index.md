@@ -1,8 +1,7 @@
 ## Welcome to Helen WenJing Zhang(张文静) Pages
 
-You can use the [editor on GitHub](https://github.com/HelenZhangComb/helenzhang.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Education
 
@@ -16,6 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - List
 
 ### Research interests
+         Integer partitions
+         q-Series
+         Modular forms
 ### Publications
          
          
