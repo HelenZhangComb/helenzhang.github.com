@@ -15,9 +15,9 @@
 - List
 
 ### Research interests
-         Integer partitions
-         q-Series
-         Modular forms
+  - Integer partitions
+  - q-Series
+  - Modular forms
 ### Publications
          
          
