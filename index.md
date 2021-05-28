@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-2014--2019 Ph.D in Center for Applied Mathematics, Tianjin University, China.
+- 2014--2019 Ph.D in Center for Applied Mathematics, Tianjin University, China.
            Advisor: William Y.C. Chen.
-2010--2014 B.Sc. in the Academy of Mathematics and Statistics, Zhengzhou University, China.
+- 2010--2014 B.Sc. in the Academy of Mathematics and Statistics, Zhengzhou University, China.
 
 # Header 1
 ## Header 2
